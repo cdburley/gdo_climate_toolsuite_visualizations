@@ -4,6 +4,7 @@
 /data/wind_solar_data/
 /data/old/
 /data/load_data/
+plots/Max_Min_Temperature_Maps/
 
 # PyCharm
 .idea/
